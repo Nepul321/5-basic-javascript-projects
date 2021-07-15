@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    background-color: #2980b9;
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+font-weight: 450;
+font-family: Verdana, "Geneva", Tahoma, sans-serif;
+}
+
+#form {
+    height: auto;
+    width: 450px;
+    text-align: center;
+}
+
+button {
+  text-decoration: none;
+  cursor: pointer;
+  height: 48px;
+  width: 120px;
+  border-radius: 8px;
+  color: white;
+  border: 2px solid white;
+  background-color: #3498db;
+
+}
+
+input {
+    font-size: 25px;
+}
+
